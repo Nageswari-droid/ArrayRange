@@ -1,4 +1,4 @@
-# ArrayRange
+# Array Range
 
 Write a program to find the range of the elements in the array. The range of an array is the difference between the maximum and minimum element in an array,
 Sample Input:
